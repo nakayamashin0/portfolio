@@ -32,7 +32,7 @@ class CSClass{
 
 [README](README.md)
 
-![スクショ](images/img00.jpg)
+![スクショ](images/img0115.jpg)
 
 <img src="images/img00.jpg" style="width:160px" alt="スクショ">
 
@@ -69,8 +69,18 @@ class CSClass{
 
 段落は、1行空ける。
 
+ ・中山晋
+ ・専門学校デジタルアーツ東京　ゲームプログラムコース　2026年度卒業予定　
+
+ 中見出し
+ スキル　
+・ c#
+ ○利用期間　半年
+
 ノベルゲームの作成、経験あり。
 
 Escape from the haunted house
+
+
 
 開発環境　ティラノスクリプト
