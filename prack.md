@@ -69,4 +69,8 @@ class CSClass{
 
 段落は、1行空ける。
 
-さしすせそ
+ノベルゲームの作成、経験あり。
+
+Escape from the haunted house
+
+開発環境　ティラノスクリプト
